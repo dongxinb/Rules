@@ -272,19 +272,6 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,wmlog.meituan.com
 DOMAIN,zz.bdstatic.com
 
-# >> Alibaba
-DOMAIN,acs4baichuan.m.taobao.com
-DOMAIN,adash.m.taobao.com
-DOMAIN,adash.man.aliyuncs.com
-DOMAIN,adashbc.ut.taobao.com
-DOMAIN,adash-c.ut.taobao.com
-DOMAIN,adashxgc.ut.taobao.com
-DOMAIN,adashx4yt.m.taobao.com
-DOMAIN,amdc.m.taobao.com
-DOMAIN,apoll.m.taobao.com
-DOMAIN,nbsdk-baichuan.alicdn.com
-DOMAIN,tunion-api.m.taobao.com
-
 # >> AutoHome
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,rd.autohome.com.cn
