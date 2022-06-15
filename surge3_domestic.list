@@ -192,7 +192,7 @@ DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcloud.com
-
+DOMAIN-SUFFIX,wechat.com
 
 # >> Tesla
 DOMAIN-SUFFIX,52tesla.com
