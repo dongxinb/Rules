@@ -1,0 +1,9 @@
+#!name=YouTube去广告模块
+#!desc=去除YouTube视频内广告
+
+
+[Script]
+YouTube去广告 = script-path=https://cdn.jsdelivr.net/gh/dongxinb/Rules@master/YouTube.js,type=http-request,pattern=^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier)
+
+[MITM]
+hostname = %APPEND% *.googlevideo.com
