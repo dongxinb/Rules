@@ -309,7 +309,6 @@ DOMAIN,log.ycapp.yiche.com
 
 DOMAIN,thirdparty.biliapi.com
 DOMAIN,thirdparty.biliapi.net
-DOMAIN,cm.bilibili.com
 URL-REGEX,https://app.bilibili.com/x/v2/param
 URL-REGEX,https://app.bilibili.com/x/resource/abtest
 URL-REGEX,http://app.bilibili.com/x/v2/dataflow/report-TINYGIF
